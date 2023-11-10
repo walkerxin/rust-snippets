@@ -1,0 +1,9 @@
+[package]
+name = "rust-snippets"
+version = "0.1.0"
+edition = "2023"
+
+# 文件目的是为了让Rust代码可以使用cargo进行编译和执行。
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
